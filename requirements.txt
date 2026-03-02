@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+Pillow
+fpdf
+deep-translator
+langdetect
